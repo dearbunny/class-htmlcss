@@ -1,0 +1,14 @@
+/* banner */
+.banner{
+    position: relative;
+    h2{
+        position: absolute;
+        top: 95px;
+        left: 0;
+        width: 100%;
+        line-height: 1.4;
+        padding: 33px 30px 30px 21px;
+        color: #FFF;
+        background-color: rgba(2,2,2,0.15);
+    }
+}
