@@ -209,7 +209,7 @@ a:hover, a:active {
 .footer .logo-gray {
   width: 170px;
   height: 36px;
-  background: url(/images/footer-logo.png) no-repeat center;
+  background: url(../images/footer-logo.png) no-repeat center;
   background-size: contain;
 }
 
@@ -246,7 +246,7 @@ a:hover, a:active {
   display: block;
   width: 170px;
   height: 49px;
-  background: url(/images/logo.png) no-repeat 0 center;
+  background: url(../images/logo.png) no-repeat 0 center;
   background-size: contain;
   /* text-hide */
   font: 0/0 a;
