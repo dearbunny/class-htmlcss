@@ -108,7 +108,7 @@ a{
             opacity: 0.8;
         }
         &:active{
-            filter:brightness(.8);
+            opacity: 1;
         }
     }
 }

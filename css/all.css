@@ -218,8 +218,7 @@ a:hover, a:active {
 }
 
 .footer .logo-gray:active {
-  -webkit-filter: brightness(0.8);
-          filter: brightness(0.8);
+  opacity: 1;
 }
 
 .clearfix:after {
@@ -258,8 +257,7 @@ a:hover, a:active {
 }
 
 .header h1 .logo:active {
-  -webkit-filter: brightness(0.8);
-          filter: brightness(0.8);
+  opacity: 1;
 }
 
 .nav {
@@ -458,13 +456,12 @@ a:hover, a:active {
   opacity: 0.8;
 }
 
-.btn:hover {
-  -webkit-filter: contrast(150%);
-  filter: contrast(150%);
-}
-
 .btn-primary {
   color: #FFF;
   background-color: #00CC99;
+}
+
+.btn-primary:hover {
+  color: #00ffbf;
 }
 /*# sourceMappingURL=all.css.map */
